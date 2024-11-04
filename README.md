@@ -14,8 +14,6 @@ This project focuses on implementing classification tasks using neural networks.
 - [Dependencies](#dependencies)
 - [Configuration](#configuration)
 - [Project Details](#project-details)
-- [Troubleshooting](#troubleshooting)
-- [Contributors](#contributors)
 - [License](#license)
 
 ## Features
@@ -44,22 +42,22 @@ ML_Classification-NN-main/
 ### Setup
 
 1. **Clone the repository**:
-   \`\`\`
+   ```
    git clone <repository-url>
    cd ML_Classification-NN-main
-   \`\`\`
+   ```
 
 3. **Install the required packages**:
-   \`\`\`
+   ```
    pip install numpy pandas matplotlib scikit-learn tensorflow
-   \`\`\`
+   ```
 
 ## Usage
 
 1. **Launch Jupyter Notebook**:
-   \`\`\`
+   ```
    jupyter notebook
-   \`\`\`
+   ```
 
 2. **Open `Classification_Neural_Networks.ipynb`** in the Jupyter interface and execute the cells step-by-step to explore the code and outputs.
 
