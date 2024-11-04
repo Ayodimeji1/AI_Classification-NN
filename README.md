@@ -43,7 +43,7 @@ ML_Classification-NN-main/
 
 1. **Clone the repository**:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Ayodimeji1/ML_Classification-NN.git
    cd ML_Classification-NN-main
    ```
 
